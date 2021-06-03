@@ -1,0 +1,21 @@
+"Empresa: RICOPIA HENARES S.A."
+"DIARIO DE FACTURACION POR ARTICULOS  AL 21-07-17"	"     "	"Pag                 de"		1
+
+"( Resumen por artículo  corte por artículo )"
+"Clientes : Todos     Fechas : 01-01-17 a 21-07-17"
+
+"Tipos artículo : Todos -- Todos los almacenes"
+
+"ARTICULO"	"UNIDADES"	"IMP. BRUTO"	"DCTO"	"% DTO"	"IMP. NETO"
+"0"	"COPIAS EN B/N"	"280"	"7,93"	"0,00"	"0"	"7,93"
+"FRANQUICIA"	"FRANQUICIA SEGUROS"	"-2"	"-150,00"	"0,00"	"0"	"-150,00"
+"0 VARIOS"	"278"	"-142,07"	"0,00"	"0,00"	"-142,07"
+"* * TOTAL GRUPO 00 * *"
+""	""	"278"	"-142,07"	"0,00"	"0,00"	"-142,07"
+"60"	"SEGURO NAVE FUENLABRADA 23/06/2017-22/09"	"3"	"864,38"	"0,00"	"0"	"864,38"
+"60 GASTOS KORPORATE"	"3"	"864,38"	"0,00"	"0,00"	"864,38"
+"* * TOTAL GRUPO 60 * *"
+""	""	"3"	"864,38"	"0,00"	"0,00"	"864,38"
+
+"* * T  O  T  A  L * *"	"      281"	"      722.31"	"     0.00"	"  0.00"	"      722.31"
+
